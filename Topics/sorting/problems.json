@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T06:56:08.381Z",
+  "updatedAt": "2026-10-13T06:56:25.132Z",
   "problems": [
+    {
+      "frontendId": "2389",
+      "title": "Longest Subsequence With Limited Sum",
+      "slug": "longest-subsequence-with-limited-sum",
+      "problemName": "2389-longest-subsequence-with-limited-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-limited-sum/",
+      "folderPath": "2389-longest-subsequence-with-limited-sum/",
+      "readmePath": "2389-longest-subsequence-with-limited-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2389-longest-subsequence-with-limited-sum.py",
+          "path": "2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.py",
+          "sha": "167778830942bdf70338f1027e71b61a13e1158d",
+          "lastSyncedAt": "2026-10-13T06:56:25.132Z"
+        }
+      ]
+    },
     {
       "frontendId": "2578",
       "title": "Split With Minimum Sum",
