@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T07:12:11.861Z",
+  "updatedAt": "2026-10-13T07:12:18.027Z",
   "problems": [
     {
       "frontendId": "1",
@@ -283,7 +283,7 @@
           "filename": "1005-maximize-sum-of-array-after-k-negations.py",
           "path": "1005-maximize-sum-of-array-after-k-negations/1005-maximize-sum-of-array-after-k-negations.py",
           "sha": "2fa145b56c53c3b37a4152d4efece2abb94c4b04",
-          "lastSyncedAt": "2026-10-13T06:59:51.082Z"
+          "lastSyncedAt": "2026-10-13T07:12:18.027Z"
         }
       ]
     },
