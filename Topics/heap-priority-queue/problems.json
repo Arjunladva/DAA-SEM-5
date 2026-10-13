@@ -5,8 +5,28 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-13T07:04:09.626Z",
+  "updatedAt": "2026-10-13T07:04:44.969Z",
   "problems": [
+    {
+      "frontendId": "973",
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "problemName": "0973-k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-closest-points-to-origin/",
+      "folderPath": "0973-k-closest-points-to-origin/",
+      "readmePath": "0973-k-closest-points-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0973-k-closest-points-to-origin.py",
+          "path": "0973-k-closest-points-to-origin/0973-k-closest-points-to-origin.py",
+          "sha": "2ce833386be8ce9e735975e3d8eeabf97c0b3100",
+          "lastSyncedAt": "2026-10-13T07:04:44.969Z"
+        }
+      ]
+    },
     {
       "frontendId": "1738",
       "title": "Find Kth Largest XOR Coordinate Value",
