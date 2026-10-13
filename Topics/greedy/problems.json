@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T06:58:34.019Z",
+  "updatedAt": "2026-10-13T06:58:41.572Z",
   "problems": [
+    {
+      "frontendId": "1736",
+      "title": "Latest Time by Replacing Hidden Digits",
+      "slug": "latest-time-by-replacing-hidden-digits",
+      "problemName": "1736-latest-time-by-replacing-hidden-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/",
+      "folderPath": "1736-latest-time-by-replacing-hidden-digits/",
+      "readmePath": "1736-latest-time-by-replacing-hidden-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1736-latest-time-by-replacing-hidden-digits.py",
+          "path": "1736-latest-time-by-replacing-hidden-digits/1736-latest-time-by-replacing-hidden-digits.py",
+          "sha": "8da83764370daf878f72b797169fb122db476c98",
+          "lastSyncedAt": "2026-10-13T06:58:41.572Z"
+        }
+      ]
+    },
     {
       "frontendId": "1827",
       "title": "Minimum Operations to Make the Array Increasing",
