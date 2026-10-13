@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T07:01:11.201Z",
+  "updatedAt": "2026-10-13T07:02:16.148Z",
   "problems": [
     {
       "frontendId": "1",
@@ -584,6 +584,26 @@
           "path": "3745-maximize-expression-of-three-elements/3745-maximize-expression-of-three-elements.py",
           "sha": "a33e4a7b80fdd339024c909739f0c7ddc58cb841",
           "lastSyncedAt": "2026-10-13T06:53:23.718Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3759",
+      "title": "Count Elements With at Least K Greater Values",
+      "slug": "count-elements-with-at-least-k-greater-values",
+      "problemName": "3759-count-elements-with-at-least-k-greater-values",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/",
+      "folderPath": "3759-count-elements-with-at-least-k-greater-values/",
+      "readmePath": "3759-count-elements-with-at-least-k-greater-values/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3759-count-elements-with-at-least-k-greater-values.py",
+          "path": "3759-count-elements-with-at-least-k-greater-values/3759-count-elements-with-at-least-k-greater-values.py",
+          "sha": "7f0b6fab7358bb84b77aee039e740b89302498d3",
+          "lastSyncedAt": "2026-10-13T07:02:16.148Z"
         }
       ]
     }
