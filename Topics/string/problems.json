@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T06:55:05.144Z",
+  "updatedAt": "2026-10-13T06:55:18.220Z",
   "problems": [
+    {
+      "frontendId": "2864",
+      "title": "Maximum Odd Binary Number",
+      "slug": "maximum-odd-binary-number",
+      "problemName": "2864-maximum-odd-binary-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-odd-binary-number/",
+      "folderPath": "2864-maximum-odd-binary-number/",
+      "readmePath": "2864-maximum-odd-binary-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2864-maximum-odd-binary-number.py",
+          "path": "2864-maximum-odd-binary-number/2864-maximum-odd-binary-number.py",
+          "sha": "f6f778ba83bc03a6946357de3c4900fe6c416bb5",
+          "lastSyncedAt": "2026-10-13T06:55:18.220Z"
+        }
+      ]
+    },
     {
       "frontendId": "2900",
       "title": "Longest Unequal Adjacent Groups Subsequence I",
