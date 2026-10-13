@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T07:04:44.969Z",
+  "updatedAt": "2026-10-13T07:05:08.412Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "0860-lemonade-change/0860-lemonade-change.py",
           "sha": "9cc87d699ba1401f146f6e049275dbe1ef6c5617",
           "lastSyncedAt": "2026-10-13T07:00:32.471Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "932",
+      "title": "Beautiful Array",
+      "slug": "beautiful-array",
+      "problemName": "0932-beautiful-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/beautiful-array/",
+      "folderPath": "0932-beautiful-array/",
+      "readmePath": "0932-beautiful-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0932-beautiful-array.py",
+          "path": "0932-beautiful-array/0932-beautiful-array.py",
+          "sha": "646da91cf96766d0e1d0113394251e634f61df23",
+          "lastSyncedAt": "2026-10-13T07:05:08.412Z"
         }
       ]
     },
