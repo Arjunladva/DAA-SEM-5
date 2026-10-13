@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-13T07:02:31.470Z",
+  "updatedAt": "2026-10-13T07:02:50.043Z",
   "problems": [
     {
       "frontendId": "2389",
@@ -24,6 +24,26 @@
           "path": "2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.py",
           "sha": "167778830942bdf70338f1027e71b61a13e1158d",
           "lastSyncedAt": "2026-10-13T06:56:25.132Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3719",
+      "title": "Longest Balanced Subarray I",
+      "slug": "longest-balanced-subarray-i",
+      "problemName": "3719-longest-balanced-subarray-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-subarray-i/",
+      "folderPath": "3719-longest-balanced-subarray-i/",
+      "readmePath": "3719-longest-balanced-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3719-longest-balanced-subarray-i.py",
+          "path": "3719-longest-balanced-subarray-i/3719-longest-balanced-subarray-i.py",
+          "sha": "3313de55f91f350cbf0248c0a216bf496263da59",
+          "lastSyncedAt": "2026-10-13T07:02:50.043Z"
         }
       ]
     },
