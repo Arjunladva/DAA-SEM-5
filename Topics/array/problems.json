@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T07:03:01.693Z",
+  "updatedAt": "2026-10-13T07:03:12.412Z",
   "problems": [
     {
       "frontendId": "1",
@@ -524,6 +524,26 @@
           "path": "3487-maximum-unique-subarray-sum-after-deletion/3487-maximum-unique-subarray-sum-after-deletion.py",
           "sha": "9672005a2c2ed44553463aa037e1967dd301c184",
           "lastSyncedAt": "2026-10-13T06:54:21.226Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3537",
+      "title": "Fill a Special Grid",
+      "slug": "fill-a-special-grid",
+      "problemName": "3537-fill-a-special-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fill-a-special-grid/",
+      "folderPath": "3537-fill-a-special-grid/",
+      "readmePath": "3537-fill-a-special-grid/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3537-fill-a-special-grid.py",
+          "path": "3537-fill-a-special-grid/3537-fill-a-special-grid.py",
+          "sha": "ca4fbd86cd863ecfc687f35651e2a30d040298bd",
+          "lastSyncedAt": "2026-10-13T07:03:12.412Z"
         }
       ]
     },
