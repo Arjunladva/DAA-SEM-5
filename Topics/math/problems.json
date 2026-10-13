@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T06:53:14.030Z",
+  "updatedAt": "2026-10-13T06:54:56.899Z",
   "problems": [
     {
       "frontendId": "2",
@@ -64,6 +64,26 @@
           "path": "2413-smallest-even-multiple/2413-smallest-even-multiple.py",
           "sha": "ce153623ed11f795ea6cd78508264fb1ccfeade5",
           "lastSyncedAt": "2026-10-13T06:53:05.406Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3014",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "problemName": "3014-minimum-number-of-pushes-to-type-word-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+      "folderPath": "3014-minimum-number-of-pushes-to-type-word-i/",
+      "readmePath": "3014-minimum-number-of-pushes-to-type-word-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3014-minimum-number-of-pushes-to-type-word-i.py",
+          "path": "3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.py",
+          "sha": "1608be19dac3ca4baea79d6b3e13844b577415e8",
+          "lastSyncedAt": "2026-10-13T06:54:56.899Z"
         }
       ]
     },
