@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-13T06:56:25.132Z",
+  "updatedAt": "2026-10-13T07:02:31.470Z",
   "problems": [
     {
       "frontendId": "2389",
@@ -24,6 +24,26 @@
           "path": "2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.py",
           "sha": "167778830942bdf70338f1027e71b61a13e1158d",
           "lastSyncedAt": "2026-10-13T06:56:25.132Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "slug": "count-subarrays-with-majority-element-i",
+      "problemName": "3737-count-subarrays-with-majority-element-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "folderPath": "3737-count-subarrays-with-majority-element-i/",
+      "readmePath": "3737-count-subarrays-with-majority-element-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3737-count-subarrays-with-majority-element-i.py",
+          "path": "3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.py",
+          "sha": "6a21ced9b2a6ba9ebeed5e024822b36efae673de",
+          "lastSyncedAt": "2026-10-13T07:02:31.470Z"
         }
       ]
     }
