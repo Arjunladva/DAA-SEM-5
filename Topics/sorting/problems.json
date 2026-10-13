@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T06:53:49.325Z",
+  "updatedAt": "2026-10-13T06:54:04.641Z",
   "problems": [
+    {
+      "frontendId": "3545",
+      "title": "Minimum Deletions for At Most K Distinct Characters",
+      "slug": "minimum-deletions-for-at-most-k-distinct-characters",
+      "problemName": "3545-minimum-deletions-for-at-most-k-distinct-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/",
+      "folderPath": "3545-minimum-deletions-for-at-most-k-distinct-characters/",
+      "readmePath": "3545-minimum-deletions-for-at-most-k-distinct-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3545-minimum-deletions-for-at-most-k-distinct-characters.py",
+          "path": "3545-minimum-deletions-for-at-most-k-distinct-characters/3545-minimum-deletions-for-at-most-k-distinct-characters.py",
+          "sha": "9cde01dbc8760895220563b1dc53adf8542bc331",
+          "lastSyncedAt": "2026-10-13T06:54:04.641Z"
+        }
+      ]
+    },
     {
       "frontendId": "3633",
       "title": "Earliest Finish Time for Land and Water Rides I",
