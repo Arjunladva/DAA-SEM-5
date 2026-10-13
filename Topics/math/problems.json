@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T07:09:51.908Z",
+  "updatedAt": "2026-10-13T07:09:56.092Z",
   "problems": [
     {
       "frontendId": "2",
@@ -243,7 +243,7 @@
           "filename": "2578-split-with-minimum-sum.py",
           "path": "2578-split-with-minimum-sum/2578-split-with-minimum-sum.py",
           "sha": "2e153787ab3930dca482f4a3eff6d48d018b085e",
-          "lastSyncedAt": "2026-10-13T06:56:08.381Z"
+          "lastSyncedAt": "2026-10-13T07:09:56.092Z"
         }
       ]
     },
