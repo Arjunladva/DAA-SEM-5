@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-13T06:57:02.996Z",
+  "updatedAt": "2026-10-13T07:03:20.803Z",
   "problems": [
     {
       "frontendId": "2335",
@@ -24,6 +24,26 @@
           "path": "2335-minimum-amount-of-time-to-fill-cups/2335-minimum-amount-of-time-to-fill-cups.py",
           "sha": "3105374450ce58b3e3d27d18faa7fd302b0ee194",
           "lastSyncedAt": "2026-10-13T06:57:02.996Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2343",
+      "title": "Query Kth Smallest Trimmed Number",
+      "slug": "query-kth-smallest-trimmed-number",
+      "problemName": "2343-query-kth-smallest-trimmed-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/query-kth-smallest-trimmed-number/",
+      "folderPath": "2343-query-kth-smallest-trimmed-number/",
+      "readmePath": "2343-query-kth-smallest-trimmed-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2343-query-kth-smallest-trimmed-number.py",
+          "path": "2343-query-kth-smallest-trimmed-number/2343-query-kth-smallest-trimmed-number.py",
+          "sha": "cd52c12eeedad6cbcd2132e384ae983d1a0e44ad",
+          "lastSyncedAt": "2026-10-13T07:03:20.803Z"
         }
       ]
     },
