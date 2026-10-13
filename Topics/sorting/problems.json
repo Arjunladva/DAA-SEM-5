@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T07:12:18.027Z",
+  "updatedAt": "2026-10-13T07:12:26.054Z",
   "problems": [
     {
       "frontendId": "148",
@@ -123,7 +123,7 @@
           "filename": "0976-largest-perimeter-triangle.py",
           "path": "0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.py",
           "sha": "4df3cd3f9e934ce9d2d47b50577a2368dcdda771",
-          "lastSyncedAt": "2026-10-13T07:00:00.085Z"
+          "lastSyncedAt": "2026-10-13T07:12:26.054Z"
         }
       ]
     },
