@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T07:05:53.671Z",
+  "updatedAt": "2026-10-13T07:06:06.082Z",
   "problems": [
     {
       "frontendId": "1",
@@ -84,6 +84,26 @@
           "path": "0605-can-place-flowers/0605-can-place-flowers.py",
           "sha": "bf9dee12c6a8bcc6170dea8646ecf6b276532b2c",
           "lastSyncedAt": "2026-10-13T07:00:51.187Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "654",
+      "title": "Maximum Binary Tree",
+      "slug": "maximum-binary-tree",
+      "problemName": "0654-maximum-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-binary-tree/",
+      "folderPath": "0654-maximum-binary-tree/",
+      "readmePath": "0654-maximum-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0654-maximum-binary-tree.py",
+          "path": "0654-maximum-binary-tree/0654-maximum-binary-tree.py",
+          "sha": "e4e5408921996640e109cde68b671e946270b167",
+          "lastSyncedAt": "2026-10-13T07:06:06.082Z"
         }
       ]
     },
