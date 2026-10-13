@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T07:03:52.607Z",
+  "updatedAt": "2026-10-13T07:04:09.626Z",
   "problems": [
     {
       "frontendId": "109",
@@ -44,6 +44,26 @@
           "path": "0148-sort-list/0148-sort-list.py",
           "sha": "4249651c7bd96cde2ce575d0d97cb62cfdb11c0f",
           "lastSyncedAt": "2026-10-13T07:01:38.612Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1738",
+      "title": "Find Kth Largest XOR Coordinate Value",
+      "slug": "find-kth-largest-xor-coordinate-value",
+      "problemName": "1738-find-kth-largest-xor-coordinate-value",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/",
+      "folderPath": "1738-find-kth-largest-xor-coordinate-value/",
+      "readmePath": "1738-find-kth-largest-xor-coordinate-value/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1738-find-kth-largest-xor-coordinate-value.py",
+          "path": "1738-find-kth-largest-xor-coordinate-value/1738-find-kth-largest-xor-coordinate-value.py",
+          "sha": "bdb07052851f258ad236b0deb2d7595b977dc593",
+          "lastSyncedAt": "2026-10-13T07:04:09.626Z"
         }
       ]
     },
