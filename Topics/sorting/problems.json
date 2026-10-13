@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T06:57:31.240Z",
+  "updatedAt": "2026-10-13T06:57:41.306Z",
   "problems": [
+    {
+      "frontendId": "2144",
+      "title": "Minimum Cost of Buying Candies With Discount",
+      "slug": "minimum-cost-of-buying-candies-with-discount",
+      "problemName": "2144-minimum-cost-of-buying-candies-with-discount",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/",
+      "folderPath": "2144-minimum-cost-of-buying-candies-with-discount/",
+      "readmePath": "2144-minimum-cost-of-buying-candies-with-discount/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2144-minimum-cost-of-buying-candies-with-discount.py",
+          "path": "2144-minimum-cost-of-buying-candies-with-discount/2144-minimum-cost-of-buying-candies-with-discount.py",
+          "sha": "a17290f6a19a13c42a7078966a41d82990ba586f",
+          "lastSyncedAt": "2026-10-13T06:57:41.306Z"
+        }
+      ]
+    },
     {
       "frontendId": "2160",
       "title": "Minimum Sum of Four Digit Number After Splitting Digits",
