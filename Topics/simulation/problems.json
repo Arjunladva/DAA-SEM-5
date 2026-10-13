@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T06:56:46.377Z",
+  "updatedAt": "2026-10-13T07:03:01.693Z",
   "problems": [
     {
       "frontendId": "2357",
@@ -24,6 +24,26 @@
           "path": "2357-make-array-zero-by-subtracting-equal-amounts/2357-make-array-zero-by-subtracting-equal-amounts.py",
           "sha": "704751c73ac4b50896b5706d5e7b196eacca5b37",
           "lastSyncedAt": "2026-10-13T06:56:46.377Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3653",
+      "title": "XOR After Range Multiplication Queries I",
+      "slug": "xor-after-range-multiplication-queries-i",
+      "problemName": "3653-xor-after-range-multiplication-queries-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-i/",
+      "folderPath": "3653-xor-after-range-multiplication-queries-i/",
+      "readmePath": "3653-xor-after-range-multiplication-queries-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3653-xor-after-range-multiplication-queries-i.py",
+          "path": "3653-xor-after-range-multiplication-queries-i/3653-xor-after-range-multiplication-queries-i.py",
+          "sha": "6a2c3957689e4bb68e8c5b08c634da4dd99f4a59",
+          "lastSyncedAt": "2026-10-13T07:03:01.693Z"
         }
       ]
     }
