@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-13T07:01:56.609Z",
+  "updatedAt": "2026-10-13T07:04:28.073Z",
   "problems": [
     {
       "frontendId": "109",
@@ -24,6 +24,26 @@
           "path": "0109-convert-sorted-list-to-binary-search-tree/0109-convert-sorted-list-to-binary-search-tree.py",
           "sha": "5777c0f1f6219567ae6902f94002b3c0976d9005",
           "lastSyncedAt": "2026-10-13T07:01:56.609Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1382",
+      "title": "Balance a Binary Search Tree",
+      "slug": "balance-a-binary-search-tree",
+      "problemName": "1382-balance-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+      "folderPath": "1382-balance-a-binary-search-tree/",
+      "readmePath": "1382-balance-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1382-balance-a-binary-search-tree.py",
+          "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.py",
+          "sha": "230be467042e556b0d94922a91cb1e389bf5d0d2",
+          "lastSyncedAt": "2026-10-13T07:04:28.073Z"
         }
       ]
     }
