@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:55:45.216Z",
+  "updatedAt": "2026-10-13T06:56:25.132Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "0001-two-sum/0001-two-sum.py",
           "sha": "221ee19103784a1161a2df0c3641fd80603a40be",
           "lastSyncedAt": "2026-10-13T06:52:47.552Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2389",
+      "title": "Longest Subsequence With Limited Sum",
+      "slug": "longest-subsequence-with-limited-sum",
+      "problemName": "2389-longest-subsequence-with-limited-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-limited-sum/",
+      "folderPath": "2389-longest-subsequence-with-limited-sum/",
+      "readmePath": "2389-longest-subsequence-with-limited-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2389-longest-subsequence-with-limited-sum.py",
+          "path": "2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.py",
+          "sha": "167778830942bdf70338f1027e71b61a13e1158d",
+          "lastSyncedAt": "2026-10-13T06:56:25.132Z"
         }
       ]
     },
