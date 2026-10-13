@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T07:05:53.671Z",
+  "updatedAt": "2026-10-13T07:06:06.082Z",
   "problems": [
     {
       "frontendId": "109",
@@ -44,6 +44,26 @@
           "path": "0148-sort-list/0148-sort-list.py",
           "sha": "4249651c7bd96cde2ce575d0d97cb62cfdb11c0f",
           "lastSyncedAt": "2026-10-13T07:01:38.612Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "654",
+      "title": "Maximum Binary Tree",
+      "slug": "maximum-binary-tree",
+      "problemName": "0654-maximum-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-binary-tree/",
+      "folderPath": "0654-maximum-binary-tree/",
+      "readmePath": "0654-maximum-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0654-maximum-binary-tree.py",
+          "path": "0654-maximum-binary-tree/0654-maximum-binary-tree.py",
+          "sha": "e4e5408921996640e109cde68b671e946270b167",
+          "lastSyncedAt": "2026-10-13T07:06:06.082Z"
         }
       ]
     },
