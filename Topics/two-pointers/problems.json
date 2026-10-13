@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers",
+    "tagId": "9"
+  },
+  "updatedAt": "2026-10-13T06:53:49.325Z",
+  "problems": [
+    {
+      "frontendId": "3633",
+      "title": "Earliest Finish Time for Land and Water Rides I",
+      "slug": "earliest-finish-time-for-land-and-water-rides-i",
+      "problemName": "3633-earliest-finish-time-for-land-and-water-rides-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/",
+      "folderPath": "3633-earliest-finish-time-for-land-and-water-rides-i/",
+      "readmePath": "3633-earliest-finish-time-for-land-and-water-rides-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3633-earliest-finish-time-for-land-and-water-rides-i.py",
+          "path": "3633-earliest-finish-time-for-land-and-water-rides-i/3633-earliest-finish-time-for-land-and-water-rides-i.py",
+          "sha": "151e178906b4c079fed96a0aa513f1b4411bcfbe",
+          "lastSyncedAt": "2026-10-13T06:53:49.325Z"
+        }
+      ]
+    }
+  ]
+}
