@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:57:58.150Z",
+  "updatedAt": "2026-10-13T06:58:34.019Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "0001-two-sum/0001-two-sum.py",
           "sha": "221ee19103784a1161a2df0c3641fd80603a40be",
           "lastSyncedAt": "2026-10-13T06:52:47.552Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1827",
+      "title": "Minimum Operations to Make the Array Increasing",
+      "slug": "minimum-operations-to-make-the-array-increasing",
+      "problemName": "1827-minimum-operations-to-make-the-array-increasing",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/",
+      "folderPath": "1827-minimum-operations-to-make-the-array-increasing/",
+      "readmePath": "1827-minimum-operations-to-make-the-array-increasing/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1827-minimum-operations-to-make-the-array-increasing.py",
+          "path": "1827-minimum-operations-to-make-the-array-increasing/1827-minimum-operations-to-make-the-array-increasing.py",
+          "sha": "77daf1efda5226a108b489b9cb4839cdfc8055e9",
+          "lastSyncedAt": "2026-10-13T06:58:34.019Z"
         }
       ]
     },
