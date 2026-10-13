@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T07:02:31.470Z",
+  "updatedAt": "2026-10-13T07:02:50.043Z",
   "problems": [
     {
       "frontendId": "109",
@@ -44,6 +44,26 @@
           "path": "0148-sort-list/0148-sort-list.py",
           "sha": "4249651c7bd96cde2ce575d0d97cb62cfdb11c0f",
           "lastSyncedAt": "2026-10-13T07:01:38.612Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3719",
+      "title": "Longest Balanced Subarray I",
+      "slug": "longest-balanced-subarray-i",
+      "problemName": "3719-longest-balanced-subarray-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-subarray-i/",
+      "folderPath": "3719-longest-balanced-subarray-i/",
+      "readmePath": "3719-longest-balanced-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3719-longest-balanced-subarray-i.py",
+          "path": "3719-longest-balanced-subarray-i/3719-longest-balanced-subarray-i.py",
+          "sha": "3313de55f91f350cbf0248c0a216bf496263da59",
+          "lastSyncedAt": "2026-10-13T07:02:50.043Z"
         }
       ]
     },
