@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T06:55:18.220Z",
+  "updatedAt": "2026-10-13T06:55:53.279Z",
   "problems": [
     {
       "frontendId": "2",
@@ -64,6 +64,26 @@
           "path": "2413-smallest-even-multiple/2413-smallest-even-multiple.py",
           "sha": "ce153623ed11f795ea6cd78508264fb1ccfeade5",
           "lastSyncedAt": "2026-10-13T06:53:05.406Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2600",
+      "title": "K Items With the Maximum Sum",
+      "slug": "k-items-with-the-maximum-sum",
+      "problemName": "2600-k-items-with-the-maximum-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/k-items-with-the-maximum-sum/",
+      "folderPath": "2600-k-items-with-the-maximum-sum/",
+      "readmePath": "2600-k-items-with-the-maximum-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2600-k-items-with-the-maximum-sum.py",
+          "path": "2600-k-items-with-the-maximum-sum/2600-k-items-with-the-maximum-sum.py",
+          "sha": "045fb8146732cd6253d4780087ca9b62b57b42a3",
+          "lastSyncedAt": "2026-10-13T06:55:53.279Z"
         }
       ]
     },
