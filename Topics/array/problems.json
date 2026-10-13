@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:58:49.589Z",
+  "updatedAt": "2026-10-13T06:58:59.846Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "0001-two-sum/0001-two-sum.py",
           "sha": "221ee19103784a1161a2df0c3641fd80603a40be",
           "lastSyncedAt": "2026-10-13T06:52:47.552Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1403",
+      "title": "Minimum Subsequence in Non-Increasing Order",
+      "slug": "minimum-subsequence-in-non-increasing-order",
+      "problemName": "1403-minimum-subsequence-in-non-increasing-order",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/",
+      "folderPath": "1403-minimum-subsequence-in-non-increasing-order/",
+      "readmePath": "1403-minimum-subsequence-in-non-increasing-order/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1403-minimum-subsequence-in-non-increasing-order.py",
+          "path": "1403-minimum-subsequence-in-non-increasing-order/1403-minimum-subsequence-in-non-increasing-order.py",
+          "sha": "7ff22c192481a64ebdc6079b5bf18b47897d6161",
+          "lastSyncedAt": "2026-10-13T06:58:59.846Z"
         }
       ]
     },
