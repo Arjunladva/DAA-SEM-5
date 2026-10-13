@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T06:56:25.132Z",
+  "updatedAt": "2026-10-13T07:02:16.148Z",
   "problems": [
     {
       "frontendId": "2389",
@@ -44,6 +44,26 @@
           "path": "3633-earliest-finish-time-for-land-and-water-rides-i/3633-earliest-finish-time-for-land-and-water-rides-i.py",
           "sha": "151e178906b4c079fed96a0aa513f1b4411bcfbe",
           "lastSyncedAt": "2026-10-13T06:53:49.325Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3759",
+      "title": "Count Elements With at Least K Greater Values",
+      "slug": "count-elements-with-at-least-k-greater-values",
+      "problemName": "3759-count-elements-with-at-least-k-greater-values",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/",
+      "folderPath": "3759-count-elements-with-at-least-k-greater-values/",
+      "readmePath": "3759-count-elements-with-at-least-k-greater-values/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3759-count-elements-with-at-least-k-greater-values.py",
+          "path": "3759-count-elements-with-at-least-k-greater-values/3759-count-elements-with-at-least-k-greater-values.py",
+          "sha": "7f0b6fab7358bb84b77aee039e740b89302498d3",
+          "lastSyncedAt": "2026-10-13T07:02:16.148Z"
         }
       ]
     }
