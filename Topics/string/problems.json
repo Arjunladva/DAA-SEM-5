@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T06:54:04.641Z",
+  "updatedAt": "2026-10-13T06:54:40.663Z",
   "problems": [
+    {
+      "frontendId": "3216",
+      "title": "Lexicographically Smallest String After a Swap",
+      "slug": "lexicographically-smallest-string-after-a-swap",
+      "problemName": "3216-lexicographically-smallest-string-after-a-swap",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/",
+      "folderPath": "3216-lexicographically-smallest-string-after-a-swap/",
+      "readmePath": "3216-lexicographically-smallest-string-after-a-swap/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3216-lexicographically-smallest-string-after-a-swap.py",
+          "path": "3216-lexicographically-smallest-string-after-a-swap/3216-lexicographically-smallest-string-after-a-swap.py",
+          "sha": "06928becb0bbe1cd0bfd06298484ec569fc71a7c",
+          "lastSyncedAt": "2026-10-13T06:54:40.663Z"
+        }
+      ]
+    },
     {
       "frontendId": "3545",
       "title": "Minimum Deletions for At Most K Distinct Characters",
