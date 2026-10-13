@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T06:53:23.718Z",
+  "updatedAt": "2026-10-13T06:53:39.119Z",
   "problems": [
+    {
+      "frontendId": "3684",
+      "title": "Maximize Sum of At Most K Distinct Elements",
+      "slug": "maximize-sum-of-at-most-k-distinct-elements",
+      "problemName": "3684-maximize-sum-of-at-most-k-distinct-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/",
+      "folderPath": "3684-maximize-sum-of-at-most-k-distinct-elements/",
+      "readmePath": "3684-maximize-sum-of-at-most-k-distinct-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3684-maximize-sum-of-at-most-k-distinct-elements.py",
+          "path": "3684-maximize-sum-of-at-most-k-distinct-elements/3684-maximize-sum-of-at-most-k-distinct-elements.py",
+          "sha": "af72898af2f0e9f3a004e8e4b299ae4486b43770",
+          "lastSyncedAt": "2026-10-13T06:53:39.119Z"
+        }
+      ]
+    },
     {
       "frontendId": "3745",
       "title": "Maximize Expression of Three Elements",
