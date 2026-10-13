@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T07:03:39.321Z",
+  "updatedAt": "2026-10-13T07:03:52.607Z",
   "problems": [
     {
       "frontendId": "409",
@@ -104,6 +104,26 @@
           "path": "1736-latest-time-by-replacing-hidden-digits/1736-latest-time-by-replacing-hidden-digits.py",
           "sha": "8da83764370daf878f72b797169fb122db476c98",
           "lastSyncedAt": "2026-10-13T06:58:41.572Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1763",
+      "title": "Longest Nice Substring",
+      "slug": "longest-nice-substring",
+      "problemName": "1763-longest-nice-substring",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-nice-substring/",
+      "folderPath": "1763-longest-nice-substring/",
+      "readmePath": "1763-longest-nice-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1763-longest-nice-substring.py",
+          "path": "1763-longest-nice-substring/1763-longest-nice-substring.py",
+          "sha": "96a4f6a0290aaad8086a2c87490bf99347017e12",
+          "lastSyncedAt": "2026-10-13T07:03:52.607Z"
         }
       ]
     },
