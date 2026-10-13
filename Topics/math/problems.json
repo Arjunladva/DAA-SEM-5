@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T07:04:44.969Z",
+  "updatedAt": "2026-10-13T07:05:08.412Z",
   "problems": [
     {
       "frontendId": "2",
@@ -24,6 +24,26 @@
           "path": "0002-add-two-numbers/0002-add-two-numbers.py",
           "sha": "69cab1a0173aae0daa3b66c9f3b88775afd9c9e5",
           "lastSyncedAt": "2026-10-13T06:52:31.901Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "932",
+      "title": "Beautiful Array",
+      "slug": "beautiful-array",
+      "problemName": "0932-beautiful-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/beautiful-array/",
+      "folderPath": "0932-beautiful-array/",
+      "readmePath": "0932-beautiful-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0932-beautiful-array.py",
+          "path": "0932-beautiful-array/0932-beautiful-array.py",
+          "sha": "646da91cf96766d0e1d0113394251e634f61df23",
+          "lastSyncedAt": "2026-10-13T07:05:08.412Z"
         }
       ]
     },
