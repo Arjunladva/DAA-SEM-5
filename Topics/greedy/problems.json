@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T06:54:04.641Z",
+  "updatedAt": "2026-10-13T06:54:21.226Z",
   "problems": [
+    {
+      "frontendId": "3487",
+      "title": "Maximum Unique Subarray Sum After Deletion",
+      "slug": "maximum-unique-subarray-sum-after-deletion",
+      "problemName": "3487-maximum-unique-subarray-sum-after-deletion",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/",
+      "folderPath": "3487-maximum-unique-subarray-sum-after-deletion/",
+      "readmePath": "3487-maximum-unique-subarray-sum-after-deletion/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3487-maximum-unique-subarray-sum-after-deletion.py",
+          "path": "3487-maximum-unique-subarray-sum-after-deletion/3487-maximum-unique-subarray-sum-after-deletion.py",
+          "sha": "9672005a2c2ed44553463aa037e1967dd301c184",
+          "lastSyncedAt": "2026-10-13T06:54:21.226Z"
+        }
+      ]
+    },
     {
       "frontendId": "3545",
       "title": "Minimum Deletions for At Most K Distinct Characters",
