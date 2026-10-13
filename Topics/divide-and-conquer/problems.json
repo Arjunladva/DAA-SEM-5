@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T07:03:01.693Z",
+  "updatedAt": "2026-10-13T07:03:12.412Z",
   "problems": [
     {
       "frontendId": "109",
@@ -44,6 +44,26 @@
           "path": "0148-sort-list/0148-sort-list.py",
           "sha": "4249651c7bd96cde2ce575d0d97cb62cfdb11c0f",
           "lastSyncedAt": "2026-10-13T07:01:38.612Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3537",
+      "title": "Fill a Special Grid",
+      "slug": "fill-a-special-grid",
+      "problemName": "3537-fill-a-special-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fill-a-special-grid/",
+      "folderPath": "3537-fill-a-special-grid/",
+      "readmePath": "3537-fill-a-special-grid/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3537-fill-a-special-grid.py",
+          "path": "3537-fill-a-special-grid/3537-fill-a-special-grid.py",
+          "sha": "ca4fbd86cd863ecfc687f35651e2a30d040298bd",
+          "lastSyncedAt": "2026-10-13T07:03:12.412Z"
         }
       ]
     },
