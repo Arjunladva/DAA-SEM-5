@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T06:58:26.254Z",
+  "updatedAt": "2026-10-13T06:59:08.628Z",
   "problems": [
     {
       "frontendId": "2",
@@ -24,6 +24,26 @@
           "path": "0002-add-two-numbers/0002-add-two-numbers.py",
           "sha": "69cab1a0173aae0daa3b66c9f3b88775afd9c9e5",
           "lastSyncedAt": "2026-10-13T06:52:31.901Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1323",
+      "title": "Maximum 69 Number",
+      "slug": "maximum-69-number",
+      "problemName": "1323-maximum-69-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-69-number/",
+      "folderPath": "1323-maximum-69-number/",
+      "readmePath": "1323-maximum-69-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1323-maximum-69-number.py",
+          "path": "1323-maximum-69-number/1323-maximum-69-number.py",
+          "sha": "2eb2564fb5937203147f1ce4bc52233d872612f1",
+          "lastSyncedAt": "2026-10-13T06:59:08.628Z"
         }
       ]
     },
