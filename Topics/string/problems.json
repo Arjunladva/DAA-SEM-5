@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T06:58:18.951Z",
+  "updatedAt": "2026-10-13T06:58:26.254Z",
   "problems": [
+    {
+      "frontendId": "1903",
+      "title": "Largest Odd Number in String",
+      "slug": "largest-odd-number-in-string",
+      "problemName": "1903-largest-odd-number-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-odd-number-in-string/",
+      "folderPath": "1903-largest-odd-number-in-string/",
+      "readmePath": "1903-largest-odd-number-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1903-largest-odd-number-in-string.py",
+          "path": "1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.py",
+          "sha": "13b05d56b6971b048fc36567f653bed973994523",
+          "lastSyncedAt": "2026-10-13T06:58:26.254Z"
+        }
+      ]
+    },
     {
       "frontendId": "1974",
       "title": "Minimum Time to Type Word Using Special Typewriter",
