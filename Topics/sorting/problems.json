@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T06:57:02.996Z",
+  "updatedAt": "2026-10-13T06:57:31.240Z",
   "problems": [
+    {
+      "frontendId": "2160",
+      "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+      "slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
+      "problemName": "2160-minimum-sum-of-four-digit-number-after-splitting-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/",
+      "folderPath": "2160-minimum-sum-of-four-digit-number-after-splitting-digits/",
+      "readmePath": "2160-minimum-sum-of-four-digit-number-after-splitting-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2160-minimum-sum-of-four-digit-number-after-splitting-digits.py",
+          "path": "2160-minimum-sum-of-four-digit-number-after-splitting-digits/2160-minimum-sum-of-four-digit-number-after-splitting-digits.py",
+          "sha": "be3617000b9254b080c5166546c06014498826c6",
+          "lastSyncedAt": "2026-10-13T06:57:31.240Z"
+        }
+      ]
+    },
     {
       "frontendId": "2335",
       "title": "Minimum Amount of Time to Fill Cups",
