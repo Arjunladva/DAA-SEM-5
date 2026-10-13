@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T07:04:44.969Z",
+  "updatedAt": "2026-10-13T07:05:08.412Z",
   "problems": [
     {
       "frontendId": "109",
@@ -44,6 +44,26 @@
           "path": "0148-sort-list/0148-sort-list.py",
           "sha": "4249651c7bd96cde2ce575d0d97cb62cfdb11c0f",
           "lastSyncedAt": "2026-10-13T07:01:38.612Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "932",
+      "title": "Beautiful Array",
+      "slug": "beautiful-array",
+      "problemName": "0932-beautiful-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/beautiful-array/",
+      "folderPath": "0932-beautiful-array/",
+      "readmePath": "0932-beautiful-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0932-beautiful-array.py",
+          "path": "0932-beautiful-array/0932-beautiful-array.py",
+          "sha": "646da91cf96766d0e1d0113394251e634f61df23",
+          "lastSyncedAt": "2026-10-13T07:05:08.412Z"
         }
       ]
     },
