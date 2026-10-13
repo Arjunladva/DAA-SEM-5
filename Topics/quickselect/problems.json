@@ -5,8 +5,28 @@
     "name": "Quickselect",
     "tagId": "61069"
   },
-  "updatedAt": "2026-10-13T07:02:16.148Z",
+  "updatedAt": "2026-10-13T07:03:20.803Z",
   "problems": [
+    {
+      "frontendId": "2343",
+      "title": "Query Kth Smallest Trimmed Number",
+      "slug": "query-kth-smallest-trimmed-number",
+      "problemName": "2343-query-kth-smallest-trimmed-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/query-kth-smallest-trimmed-number/",
+      "folderPath": "2343-query-kth-smallest-trimmed-number/",
+      "readmePath": "2343-query-kth-smallest-trimmed-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2343-query-kth-smallest-trimmed-number.py",
+          "path": "2343-query-kth-smallest-trimmed-number/2343-query-kth-smallest-trimmed-number.py",
+          "sha": "cd52c12eeedad6cbcd2132e384ae983d1a0e44ad",
+          "lastSyncedAt": "2026-10-13T07:03:20.803Z"
+        }
+      ]
+    },
     {
       "frontendId": "3759",
       "title": "Count Elements With at Least K Greater Values",
