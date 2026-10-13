@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T06:59:23.933Z",
+  "updatedAt": "2026-10-13T06:59:33.536Z",
   "problems": [
+    {
+      "frontendId": "1217",
+      "title": "Minimum Cost to Move Chips to The Same Position",
+      "slug": "minimum-cost-to-move-chips-to-the-same-position",
+      "problemName": "1217-minimum-cost-to-move-chips-to-the-same-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/",
+      "folderPath": "1217-minimum-cost-to-move-chips-to-the-same-position/",
+      "readmePath": "1217-minimum-cost-to-move-chips-to-the-same-position/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1217-minimum-cost-to-move-chips-to-the-same-position.py",
+          "path": "1217-minimum-cost-to-move-chips-to-the-same-position/1217-minimum-cost-to-move-chips-to-the-same-position.py",
+          "sha": "ec826195c337b0053716c0380696921238d75972",
+          "lastSyncedAt": "2026-10-13T06:59:33.536Z"
+        }
+      ]
+    },
     {
       "frontendId": "1221",
       "title": "Split a String in Balanced Strings",
