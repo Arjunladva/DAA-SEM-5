@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T06:52:59.094Z",
+  "updatedAt": "2026-10-13T06:53:05.406Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,26 @@
           "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.py",
           "sha": "f4b0ccd8e14f675380884a348a4516b4dfc0e3d7",
           "lastSyncedAt": "2026-10-13T06:52:59.094Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2413",
+      "title": "Smallest Even Multiple",
+      "slug": "smallest-even-multiple",
+      "problemName": "2413-smallest-even-multiple",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-even-multiple/",
+      "folderPath": "2413-smallest-even-multiple/",
+      "readmePath": "2413-smallest-even-multiple/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2413-smallest-even-multiple.py",
+          "path": "2413-smallest-even-multiple/2413-smallest-even-multiple.py",
+          "sha": "ce153623ed11f795ea6cd78508264fb1ccfeade5",
+          "lastSyncedAt": "2026-10-13T06:53:05.406Z"
         }
       ]
     }
