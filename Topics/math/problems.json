@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T06:56:17.987Z",
+  "updatedAt": "2026-10-13T06:57:31.240Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,26 @@
           "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.py",
           "sha": "f4b0ccd8e14f675380884a348a4516b4dfc0e3d7",
           "lastSyncedAt": "2026-10-13T06:52:59.094Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2160",
+      "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+      "slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
+      "problemName": "2160-minimum-sum-of-four-digit-number-after-splitting-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/",
+      "folderPath": "2160-minimum-sum-of-four-digit-number-after-splitting-digits/",
+      "readmePath": "2160-minimum-sum-of-four-digit-number-after-splitting-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2160-minimum-sum-of-four-digit-number-after-splitting-digits.py",
+          "path": "2160-minimum-sum-of-four-digit-number-after-splitting-digits/2160-minimum-sum-of-four-digit-number-after-splitting-digits.py",
+          "sha": "be3617000b9254b080c5166546c06014498826c6",
+          "lastSyncedAt": "2026-10-13T06:57:31.240Z"
         }
       ]
     },
