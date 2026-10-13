@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T07:09:43.018Z",
+  "updatedAt": "2026-10-13T07:10:06.709Z",
   "problems": [
     {
       "frontendId": "1",
@@ -583,7 +583,7 @@
           "filename": "2389-longest-subsequence-with-limited-sum.py",
           "path": "2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.py",
           "sha": "167778830942bdf70338f1027e71b61a13e1158d",
-          "lastSyncedAt": "2026-10-13T06:56:25.132Z"
+          "lastSyncedAt": "2026-10-13T07:10:06.709Z"
         }
       ]
     },
