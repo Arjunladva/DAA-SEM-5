@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-13T07:02:50.043Z",
+  "updatedAt": "2026-10-13T07:03:01.693Z",
   "problems": [
     {
       "frontendId": "2389",
@@ -24,6 +24,26 @@
           "path": "2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.py",
           "sha": "167778830942bdf70338f1027e71b61a13e1158d",
           "lastSyncedAt": "2026-10-13T06:56:25.132Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3653",
+      "title": "XOR After Range Multiplication Queries I",
+      "slug": "xor-after-range-multiplication-queries-i",
+      "problemName": "3653-xor-after-range-multiplication-queries-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-i/",
+      "folderPath": "3653-xor-after-range-multiplication-queries-i/",
+      "readmePath": "3653-xor-after-range-multiplication-queries-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3653-xor-after-range-multiplication-queries-i.py",
+          "path": "3653-xor-after-range-multiplication-queries-i/3653-xor-after-range-multiplication-queries-i.py",
+          "sha": "6a2c3957689e4bb68e8c5b08c634da4dd99f4a59",
+          "lastSyncedAt": "2026-10-13T07:03:01.693Z"
         }
       ]
     },
