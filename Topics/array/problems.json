@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:55:26.789Z",
+  "updatedAt": "2026-10-13T06:55:45.216Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "0001-two-sum/0001-two-sum.py",
           "sha": "221ee19103784a1161a2df0c3641fd80603a40be",
           "lastSyncedAt": "2026-10-13T06:52:47.552Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2656",
+      "title": "Maximum Sum With Exactly K Elements ",
+      "slug": "maximum-sum-with-exactly-k-elements",
+      "problemName": "2656-maximum-sum-with-exactly-k-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/",
+      "folderPath": "2656-maximum-sum-with-exactly-k-elements/",
+      "readmePath": "2656-maximum-sum-with-exactly-k-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2656-maximum-sum-with-exactly-k-elements.py",
+          "path": "2656-maximum-sum-with-exactly-k-elements/2656-maximum-sum-with-exactly-k-elements.py",
+          "sha": "847ff45815f9f579f007fc0f2e6a76398bc5c4d6",
+          "lastSyncedAt": "2026-10-13T06:55:45.216Z"
         }
       ]
     },
