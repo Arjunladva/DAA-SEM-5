@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T07:05:08.412Z",
+  "updatedAt": "2026-10-13T07:05:17.476Z",
   "problems": [
     {
       "frontendId": "109",
@@ -44,6 +44,26 @@
           "path": "0148-sort-list/0148-sort-list.py",
           "sha": "4249651c7bd96cde2ce575d0d97cb62cfdb11c0f",
           "lastSyncedAt": "2026-10-13T07:01:38.612Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "918",
+      "title": "Maximum Sum Circular Subarray",
+      "slug": "maximum-sum-circular-subarray",
+      "problemName": "0918-maximum-sum-circular-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
+      "folderPath": "0918-maximum-sum-circular-subarray/",
+      "readmePath": "0918-maximum-sum-circular-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0918-maximum-sum-circular-subarray.py",
+          "path": "0918-maximum-sum-circular-subarray/0918-maximum-sum-circular-subarray.py",
+          "sha": "6b658df0014b4888cc2fb8d3ff729fa764870e00",
+          "lastSyncedAt": "2026-10-13T07:05:17.476Z"
         }
       ]
     },
