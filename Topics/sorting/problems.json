@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T06:55:26.789Z",
+  "updatedAt": "2026-10-13T06:56:08.381Z",
   "problems": [
+    {
+      "frontendId": "2578",
+      "title": "Split With Minimum Sum",
+      "slug": "split-with-minimum-sum",
+      "problemName": "2578-split-with-minimum-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/split-with-minimum-sum/",
+      "folderPath": "2578-split-with-minimum-sum/",
+      "readmePath": "2578-split-with-minimum-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2578-split-with-minimum-sum.py",
+          "path": "2578-split-with-minimum-sum/2578-split-with-minimum-sum.py",
+          "sha": "2e153787ab3930dca482f4a3eff6d48d018b085e",
+          "lastSyncedAt": "2026-10-13T06:56:08.381Z"
+        }
+      ]
+    },
     {
       "frontendId": "2706",
       "title": "Buy Two Chocolates",
