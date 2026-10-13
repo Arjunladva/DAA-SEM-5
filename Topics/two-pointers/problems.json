@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T06:53:49.325Z",
+  "updatedAt": "2026-10-13T06:55:36.163Z",
   "problems": [
+    {
+      "frontendId": "2697",
+      "title": "Lexicographically Smallest Palindrome",
+      "slug": "lexicographically-smallest-palindrome",
+      "problemName": "2697-lexicographically-smallest-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-palindrome/",
+      "folderPath": "2697-lexicographically-smallest-palindrome/",
+      "readmePath": "2697-lexicographically-smallest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2697-lexicographically-smallest-palindrome.py",
+          "path": "2697-lexicographically-smallest-palindrome/2697-lexicographically-smallest-palindrome.py",
+          "sha": "fe91eee9ccbd128400faa3ce21b9746acd699bb6",
+          "lastSyncedAt": "2026-10-13T06:55:36.163Z"
+        }
+      ]
+    },
     {
       "frontendId": "3633",
       "title": "Earliest Finish Time for Land and Water Rides I",
