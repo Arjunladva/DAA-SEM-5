@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-13T07:05:34.934Z",
+  "updatedAt": "2026-10-13T07:10:21.864Z",
   "problems": [
     {
       "frontendId": "912",
@@ -143,7 +143,7 @@
           "filename": "2357-make-array-zero-by-subtracting-equal-amounts.py",
           "path": "2357-make-array-zero-by-subtracting-equal-amounts/2357-make-array-zero-by-subtracting-equal-amounts.py",
           "sha": "704751c73ac4b50896b5706d5e7b196eacca5b37",
-          "lastSyncedAt": "2026-10-13T06:56:46.377Z"
+          "lastSyncedAt": "2026-10-13T07:10:21.864Z"
         }
       ]
     }
