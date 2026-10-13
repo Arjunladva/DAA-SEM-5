@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T07:13:44.732Z",
+  "updatedAt": "2026-10-13T07:13:54.935Z",
   "problems": [
     {
       "frontendId": "109",
@@ -343,7 +343,7 @@
           "filename": "3737-count-subarrays-with-majority-element-i.py",
           "path": "3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.py",
           "sha": "6a21ced9b2a6ba9ebeed5e024822b36efae673de",
-          "lastSyncedAt": "2026-10-13T07:02:31.470Z"
+          "lastSyncedAt": "2026-10-13T07:13:54.935Z"
         }
       ]
     },
