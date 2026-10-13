@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T06:53:05.406Z",
+  "updatedAt": "2026-10-13T06:53:14.030Z",
   "problems": [
     {
       "frontendId": "2",
@@ -64,6 +64,26 @@
           "path": "2413-smallest-even-multiple/2413-smallest-even-multiple.py",
           "sha": "ce153623ed11f795ea6cd78508264fb1ccfeade5",
           "lastSyncedAt": "2026-10-13T06:53:05.406Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4000",
+      "title": "Largest Integer With Given Digit Sum",
+      "slug": "largest-integer-with-given-digit-sum",
+      "problemName": "4000-largest-integer-with-given-digit-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-integer-with-given-digit-sum/",
+      "folderPath": "4000-largest-integer-with-given-digit-sum/",
+      "readmePath": "4000-largest-integer-with-given-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4000-largest-integer-with-given-digit-sum.py",
+          "path": "4000-largest-integer-with-given-digit-sum/4000-largest-integer-with-given-digit-sum.py",
+          "sha": "67c4b0ba2f9cc1d4edbeb37e45f83d1a94932d6a",
+          "lastSyncedAt": "2026-10-13T06:53:14.030Z"
         }
       ]
     }
